@@ -12,4 +12,5 @@ This project is a fun and effective way for you to practice fundamental JavaScri
 When you're done, you'll put your finished project on GitHub, an important tool used by millions of developers to help share code and work collaboratively on programming projects. Creating and using a GitHub account is also a great way to share your work with potential employers.
 
 ### Exceeds Expectations
-  I added functionality so that all 5 quotes will show randomly before any of them are repeated.
+1. Added functionality so that all 5 quotes will show randomly before any of them are repeated.
+2. Additional logic intoduced so that a different background color will display after certain amount of time or user clicks for next quote
